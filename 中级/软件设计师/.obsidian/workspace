@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "702d209b6ee6af22",
+    "type": "split",
+    "children": [
+      {
+        "id": "85a0d349b5dacee8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "知识点/1、数据表示和计算.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d985c043a2bdaafc",
+    "type": "split",
+    "children": [
+      {
+        "id": "23f00648d1a1a91a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9dc60a201bf28f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8be430628fc349f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:20211118134849",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "403197f27c554b1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b532249737232937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d156cef44d2ba508",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识点/1、数据表示和计算.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6bf62a9ee6602b0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "85a0d349b5dacee8",
+  "lastOpenFiles": [
+    "知识点/1、数据表示和计算.md"
+  ]
+}
