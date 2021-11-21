@@ -7,9 +7,10 @@
         "id": "85a0d349b5dacee8",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "书籍/655288 软件设计师教程第5版.pdf"
+            "file": "知识点/1、数据表示和计算.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/655288 软件设计师教程第5版.pdf",
+                "file": "知识点/1、数据表示和计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +96,9 @@
   },
   "active": "85a0d349b5dacee8",
   "lastOpenFiles": [
+    "知识点/1、数据表示和计算.md",
     "书籍/655288 软件设计师教程第5版.pdf",
     "书籍/557813 计算机组成与设计  硬件软件接口 原书第5版.pdf",
-    "知识点/1、数据表示和计算.md",
     "坑.md"
   ]
 }
