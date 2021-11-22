@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/1、数据表示和计算.md",
+            "file": "知识点/2、计算机结构.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/1、数据表示和计算.md",
+                "file": "知识点/2、计算机结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,16 +86,25 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e00a5538d964ae7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "85a0d349b5dacee8",
   "lastOpenFiles": [
+    "知识点/2、计算机结构.md",
     "知识点/1、数据表示和计算.md",
     "书籍/655288 软件设计师教程第5版.pdf",
     "书籍/557813 计算机组成与设计  硬件软件接口 原书第5版.pdf",
