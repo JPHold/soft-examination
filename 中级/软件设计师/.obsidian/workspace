@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/3、流水线.md",
+            "file": "知识点/4、层次化存储结构.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/3、流水线.md",
+                "file": "知识点/4、层次化存储结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "85a0d349b5dacee8",
   "lastOpenFiles": [
+    "知识点/4、层次化存储结构.md",
+    "不懂.md",
     "知识点/3、流水线.md",
     "知识点/2、计算机结构.md",
     "知识点/1、数据表示和计算.md",
