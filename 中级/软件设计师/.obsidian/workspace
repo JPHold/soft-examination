@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "绘图/Cache-直接相联映像结构.md"
+            "file": "绘图/Cache-主相联映像结构.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/Cache-直接相联映像结构.md",
+                "file": "绘图/Cache-主相联映像结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "b90f40cc699df7de",
   "lastOpenFiles": [
+    "绘图/Cache-主相联映像结构.md",
+    "绘图/Cache-组相联映像结构.md",
+    "知识点/4、层次化存储结构.md",
+    "绘图/Cache-全相联映像结构.md",
+    "绘图/未命名.md",
     "绘图/Cache-直接相联映像结构.md",
     "知识点/Drawing 2021-11-27 23.02.32.excalidraw.md",
     "知识点/Drawing 2021-11-27 23.01.39.excalidraw.md",
-    "知识点/4、层次化存储结构.md",
     "知识点/4.1、直接相联映像结构图.md",
-    "不懂.md",
-    "知识点/3、流水线.md",
-    "知识点/2、计算机结构.md",
-    "知识点/1、数据表示和计算.md",
-    "conflict-files-obsidian-git.md"
+    "不懂.md"
   ]
 }
