@@ -23,6 +23,10 @@ excalidraw-plugin: raw
 
 31页 ^bucbfkU7
 
+0区 ^f7sHMiFn
+
+1区 ^AblgIvPH
+
 %%
 # Drawing
 ```json
@@ -568,6 +572,66 @@ excalidraw-plugin: raw
 			"baseline": 22,
 			"textAlign": "center",
 			"verticalAlign": "middle"
+		},
+		{
+			"id": "f7sHMiFn",
+			"type": "text",
+			"x": -188.6324462890625,
+			"y": -214.66241455078125,
+			"width": 34,
+			"height": 29,
+			"angle": 0,
+			"strokeColor": "#e67700",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1806261444,
+			"version": 10,
+			"versionNonce": 1430266748,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "0区",
+			"rawText": "0区",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 22
+		},
+		{
+			"id": "AblgIvPH",
+			"type": "text",
+			"x": -184.5299072265625,
+			"y": -79.27777099609375,
+			"width": 25,
+			"height": 29,
+			"angle": 0,
+			"strokeColor": "#e67700",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 39188932,
+			"version": 32,
+			"versionNonce": 1970084164,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "1区",
+			"rawText": "1区",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 22
 		}
 	],
 	"appState": {
