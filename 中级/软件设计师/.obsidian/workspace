@@ -7,10 +7,9 @@
         "id": "b90f40cc699df7de",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "知识点/4、层次化存储结构.md",
-            "mode": "source"
+            "file": "绘图/Cache-直接相联映像结构.md"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/4、层次化存储结构.md",
+                "file": "绘图/Cache-直接相联映像结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +104,11 @@
   },
   "active": "b90f40cc699df7de",
   "lastOpenFiles": [
+    "绘图/Cache-直接相联映像结构.md",
+    "绘图/Cache-全相联映像结构.md",
     "知识点/4、层次化存储结构.md",
     "绘图/Cache-组相联映像结构.md",
-    "绘图/Cache-直接相联映像结构.md",
     "绘图/Cache-组相联映像结构.md",
-    "绘图/Cache-全相联映像结构.md",
     "绘图/未命名.md",
     "知识点/Drawing 2021-11-27 23.02.32.excalidraw.md",
     "知识点/Drawing 2021-11-27 23.01.39.excalidraw.md",
