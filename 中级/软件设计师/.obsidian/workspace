@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/2、计算机结构.md",
+            "file": "知识点/4、层次化存储结构.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/2、计算机结构.md",
+                "file": "知识点/4、层次化存储结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +94,28 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "cddba84bd704450d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识点/4、层次化存储结构.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "85a0d349b5dacee8",
   "lastOpenFiles": [
+    "知识点/4、层次化存储结构.md",
+    "知识点/3、流水线.md",
     "知识点/2、计算机结构.md",
     "知识点/1、数据表示和计算.md",
     "书籍/655288 软件设计师教程第5版.pdf",
