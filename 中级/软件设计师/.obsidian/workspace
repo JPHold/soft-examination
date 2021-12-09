@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "知识点/4、层次化存储结构.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -116,6 +116,7 @@
   "active": "9d51dcc0e2667625",
   "lastOpenFiles": [
     "知识点/4、层次化存储结构.md",
+    "未命名.md",
     "知识点/1、数据表示和计算.md",
     "conflict-files-obsidian-git.md",
     "知识点/5、计算机总线.md",
@@ -123,7 +124,6 @@
     "绘图/Cache-直接相联映像结构.md",
     "绘图/Cache-全相联映像结构.md",
     "绘图/Cache-组相联映像结构.md",
-    "绘图/未命名.md",
-    "知识点/Drawing 2021-11-27 23.02.32.excalidraw.md"
+    "绘图/未命名.md"
   ]
 }
