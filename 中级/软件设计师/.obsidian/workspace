@@ -12,7 +12,19 @@
             "file": "知识点/4、层次化存储结构.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "fc834f01b49950f2"
+      },
+      {
+        "id": "69e070491dbe216a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "知识点/4、层次化存储结构.md"
+          }
+        },
+        "group": "fc834f01b49950f2"
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d51dcc0e2667625",
+  "active": "69e070491dbe216a",
   "lastOpenFiles": [
     "知识点/4、层次化存储结构.md",
     "未命名.md",
