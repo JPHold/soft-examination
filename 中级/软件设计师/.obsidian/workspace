@@ -6,23 +6,11 @@
       {
         "id": "9d51dcc0e2667625",
         "type": "leaf",
-        "dimension": 37.63955342902711,
         "state": {
           "type": "markdown",
           "state": {
             "file": "知识点/磁盘结构.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4acf408156eeb20b",
-        "type": "leaf",
-        "dimension": 62.36044657097288,
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "绘图/磁盘-算读取时间（单）.md"
           }
         }
       }
