@@ -13,14 +13,6 @@
             "mode": "preview"
           }
         }
-      },
-      {
-        "id": "7e3851d11cf72896",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -76,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识点/6、磁盘结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识点/6、磁盘结构.md"
+              }
             }
           }
         ],
@@ -118,10 +113,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e3851d11cf72896",
+  "active": "9d51dcc0e2667625",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "知识点/6、磁盘结构.md",
+    "conflict-files-obsidian-git.md",
     "知识点/4、层次化存储结构.md",
     "未命名.md",
     "知识点/1、数据表示和计算.md",
