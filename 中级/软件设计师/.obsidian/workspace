@@ -7,10 +7,9 @@
         "id": "9840e62f7bf5a753",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "知识点/6、计算机总线.md",
-            "mode": "source"
+            "file": "绘图/系统可靠性分析与设计-串连系统.md"
           }
         }
       }
@@ -39,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:20211118134849",
+                "query": "\\n",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/6、计算机总线.md",
+                "file": "绘图/系统可靠性分析与设计-串连系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/6、计算机总线.md"
+                "file": "绘图/系统可靠性分析与设计-串连系统.md"
               }
             }
           }
@@ -116,15 +114,15 @@
   },
   "active": "9840e62f7bf5a753",
   "lastOpenFiles": [
+    "绘图/系统可靠性分析与设计-串连系统.md",
+    "绘图/未命名.md",
+    "知识点/7、系统可靠性分析与设计.md",
     "知识点/6、计算机总线.md",
+    "知识点/4、层次化存储结构.md",
     "知识点/5、磁盘结构.md",
     "绘图/磁盘-算读取时间（单缓冲区+优化）.md",
     "绘图/磁盘-算读取时间（单缓冲区+无优化）.md",
     "conflict-files-obsidian-git.md",
-    "知识点/磁盘结构.md",
-    "绘图/磁盘-算读取时间（单）.md",
-    "知识点/5、计算机总线.md",
-    "绘图/磁盘-盘面构成.md",
-    "绘图/Cache-全相联映像结构.md"
+    "知识点/磁盘结构.md"
   ]
 }
