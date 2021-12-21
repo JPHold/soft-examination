@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9d51dcc0e2667625",
+        "id": "9840e62f7bf5a753",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "知识点/磁盘结构.md",
-            "mode": "source"
+            "file": "绘图/磁盘-算读取时间（单缓冲区+优化）.md"
           }
         }
       }
@@ -52,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/磁盘结构.md",
+                "file": "绘图/磁盘-算读取时间（单缓冲区+优化）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/磁盘结构.md"
+                "file": "绘图/磁盘-算读取时间（单缓冲区+优化）.md"
               }
             }
           }
@@ -114,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d51dcc0e2667625",
+  "active": "9840e62f7bf5a753",
   "lastOpenFiles": [
+    "绘图/磁盘-算读取时间（单缓冲区+优化）.md",
+    "绘图/磁盘-算读取时间（单缓冲区+无优化）.md",
+    "conflict-files-obsidian-git.md",
     "知识点/磁盘结构.md",
     "绘图/磁盘-算读取时间（单）.md",
     "知识点/5、计算机总线.md",
     "绘图/磁盘-盘面构成.md",
     "绘图/Cache-全相联映像结构.md",
     "附件/磁盘结构_2021-12-09 23.06.21.excalidraw.md",
-    "知识点/4、层次化存储结构.md",
-    "未命名.md",
-    "知识点/1、数据表示和计算.md",
-    "conflict-files-obsidian-git.md"
+    "知识点/4、层次化存储结构.md"
   ]
 }
