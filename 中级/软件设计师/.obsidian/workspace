@@ -7,9 +7,11 @@
         "id": "01bb058382ead079",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "绘图/模2除法.md"
+            "file": "知识点/8、差错控制-CRC与海明校验码.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/模2除法.md",
+                "file": "知识点/8、差错控制-CRC与海明校验码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绘图/模2除法.md"
+                "file": "知识点/8、差错控制-CRC与海明校验码.md"
               }
             }
           }
@@ -114,9 +116,9 @@
   },
   "active": "01bb058382ead079",
   "lastOpenFiles": [
+    "知识点/8、差错控制-CRC与海明校验码.md",
     "绘图/模2除法.md",
     "绘图/二进制除法.md",
-    "知识点/8、差错控制-CRC与海明校验码.md",
     "绘图/磁盘-算读取时间（单缓冲区+优化）.md",
     "绘图/系统可靠性分析与设计-串连系统.md",
     "知识点/1、数据表示和计算.md",
