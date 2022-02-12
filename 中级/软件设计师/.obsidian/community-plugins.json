@@ -1,9 +1,9 @@
 [
   "obsidian-git",
   "calendar-beta",
-  "table-editor-obsidian",
   "periodic-notes",
   "obsidian-chartsview-plugin",
   "obsidian-mind-map",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian"
 ]
