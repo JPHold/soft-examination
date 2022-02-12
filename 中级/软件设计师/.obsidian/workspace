@@ -7,11 +7,9 @@
         "id": "2a2032c377c1db9e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "知识点/9、操作系统基本原理.md",
-            "mode": "source",
-            "source": false
+            "file": "绘图/操作系统基本原理-进程管理-前驱图.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/9、操作系统基本原理.md",
+                "file": "绘图/操作系统基本原理-进程管理-前驱图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/9、操作系统基本原理.md"
+                "file": "绘图/操作系统基本原理-进程管理-前驱图.md"
               }
             }
           }
@@ -116,6 +114,7 @@
   },
   "active": "2a2032c377c1db9e",
   "lastOpenFiles": [
+    "绘图/操作系统基本原理-进程管理-前驱图.md",
     "知识点/9、操作系统基本原理.md",
     "绘图/操作系统基本原理-进程管理-进程状态演变和流程.md",
     "绘图/Cache-组相联映像结构.md",
@@ -124,7 +123,6 @@
     "绘图/海明校验码-计算法.md",
     "conflict-files-obsidian-git.md",
     "绘图/模2除法.md",
-    "绘图/二进制除法.md",
-    "绘图/磁盘-算读取时间（单缓冲区+优化）.md"
+    "绘图/二进制除法.md"
   ]
 }
