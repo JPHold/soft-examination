@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "01bb058382ead079",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "2a2032c377c1db9e",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "绘图/海明校验码.md"
+            "file": "绘图/海明校验码-检错和纠错.md"
           }
         }
       }
@@ -75,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/海明校验码.md",
+                "file": "绘图/海明校验码-检错和纠错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绘图/海明校验码.md"
+                "file": "绘图/海明校验码-检错和纠错.md"
               }
             }
           }
@@ -122,7 +114,8 @@
   },
   "active": "2a2032c377c1db9e",
   "lastOpenFiles": [
-    "绘图/海明校验码.md",
+    "绘图/海明校验码-检错和纠错.md",
+    "绘图/海明校验码-计算法.md",
     "知识点/8、差错控制-CRC与海明校验码.md",
     "conflict-files-obsidian-git.md",
     "绘图/模2除法.md",
@@ -130,7 +123,6 @@
     "绘图/磁盘-算读取时间（单缓冲区+优化）.md",
     "绘图/系统可靠性分析与设计-串连系统.md",
     "知识点/1、数据表示和计算.md",
-    "知识点/6、计算机总线.md",
-    "知识点/7、系统可靠性分析与设计.md"
+    "知识点/6、计算机总线.md"
   ]
 }
