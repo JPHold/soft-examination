@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9840e62f7bf5a753",
+        "id": "8cef844f305feb8d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -107,16 +107,17 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "9840e62f7bf5a753",
+  "active": "8cef844f305feb8d",
   "lastOpenFiles": [
     "知识点/8、差错控制-CRC与海明校验码.md",
+    "conflict-files-obsidian-git.md",
     "绘图/Cache-组相联映像结构.md",
     "绘图/海明校验码.md",
     "知识点/2、计算机结构.md",
@@ -124,7 +125,6 @@
     "绘图/循环校验码CRC的计算逻辑.md",
     "附件/Pasted image 20220210224837.png",
     "知识点/7、系统可靠性分析与设计.md",
-    "绘图/系统可靠性分析与设计-例子.md",
-    "绘图/系统可靠性分析与设计-n模冗余系统.md"
+    "绘图/系统可靠性分析与设计-例子.md"
   ]
 }
