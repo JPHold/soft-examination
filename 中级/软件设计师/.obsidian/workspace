@@ -7,9 +7,11 @@
         "id": "08f3aeff6ac3f1ed",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "绘图/海明校验码-检错和纠错.md"
+            "file": "知识点/9、操作系统基本原理.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/海明校验码-检错和纠错.md",
+                "file": "知识点/9、操作系统基本原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绘图/海明校验码-检错和纠错.md"
+                "file": "知识点/9、操作系统基本原理.md"
               }
             }
           }
@@ -114,6 +116,7 @@
   },
   "active": "08f3aeff6ac3f1ed",
   "lastOpenFiles": [
+    "知识点/9、操作系统基本原理.md",
     "绘图/海明校验码-检错和纠错.md",
     "conflict-files-obsidian-git.md",
     "知识点/8、差错控制-CRC与海明校验码.md",
@@ -122,7 +125,6 @@
     "知识点/2、计算机结构.md",
     "知识点/1、数据表示和计算.md",
     "绘图/循环校验码CRC的计算逻辑.md",
-    "附件/Pasted image 20220210224837.png",
-    "知识点/7、系统可靠性分析与设计.md"
+    "附件/Pasted image 20220210224837.png"
   ]
 }
