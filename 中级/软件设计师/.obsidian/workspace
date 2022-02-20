@@ -9,11 +9,48 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/9、操作系统基本原理.md",
+            "file": "不懂.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
-        }
+        },
+        "group": "cceebe5f96d13ef2"
+      },
+      {
+        "id": "030e29516adc3ce9",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "不懂.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "cceebe5f96d13ef2"
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/9、操作系统基本原理.md",
+                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/9、操作系统基本原理.md"
+                "file": "不懂.md"
               }
             }
           }
@@ -114,10 +151,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d79b50b4a1fc63f2",
+  "active": "030e29516adc3ce9",
   "lastOpenFiles": [
-    "知识点/9、操作系统基本原理.md",
     "不懂.md",
+    "知识点/9、操作系统基本原理.md",
     "绘图/操作系统基本原理-进程管理-PV操作.md",
     "绘图/磁盘-盘面构成.md",
     "绘图/海明校验码-检错和纠错.md",
