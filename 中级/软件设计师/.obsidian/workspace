@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "08f3aeff6ac3f1ed",
+        "id": "d79b50b4a1fc63f2",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "绘图/操作系统基本原理-进程管理-PV操作.md"
+            "file": "知识点/9、操作系统基本原理.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/操作系统基本原理-进程管理-PV操作.md",
+                "file": "知识点/9、操作系统基本原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绘图/操作系统基本原理-进程管理-PV操作.md"
+                "file": "知识点/9、操作系统基本原理.md"
               }
             }
           }
@@ -112,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08f3aeff6ac3f1ed",
+  "active": "d79b50b4a1fc63f2",
   "lastOpenFiles": [
-    "绘图/操作系统基本原理-进程管理-PV操作.md",
     "知识点/9、操作系统基本原理.md",
+    "不懂.md",
+    "绘图/操作系统基本原理-进程管理-PV操作.md",
+    "绘图/磁盘-盘面构成.md",
     "绘图/海明校验码-检错和纠错.md",
     "conflict-files-obsidian-git.md",
     "知识点/8、差错控制-CRC与海明校验码.md",
     "绘图/Cache-组相联映像结构.md",
     "绘图/海明校验码.md",
-    "知识点/2、计算机结构.md",
-    "知识点/1、数据表示和计算.md",
-    "绘图/循环校验码CRC的计算逻辑.md"
+    "知识点/2、计算机结构.md"
   ]
 }
