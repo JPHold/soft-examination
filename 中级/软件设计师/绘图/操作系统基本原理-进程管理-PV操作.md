@@ -46,6 +46,8 @@ T ^KqPZQ8rT
 
 从等待队列释放一个进程出来 ^NdofjtUE
 
+F ^STWN2kq5
+
 %%
 # Drawing
 ```json
@@ -286,8 +288,8 @@ T ^KqPZQ8rT
 		},
 		{
 			"type": "text",
-			"version": 20,
-			"versionNonce": 884797944,
+			"version": 21,
+			"versionNonce": 2127311302,
 			"isDeleted": false,
 			"id": "Ex4iLP7W",
 			"fillStyle": "hachure",
@@ -296,7 +298,7 @@ T ^KqPZQ8rT
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -120.75213623046875,
+			"x": -121.5118882921007,
 			"y": 40.946563720703125,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1341,6 +1343,36 @@ T ^KqPZQ8rT
 			"baseline": 17,
 			"textAlign": "left",
 			"verticalAlign": "top"
+		},
+		{
+			"id": "STWN2kq5",
+			"type": "text",
+			"x": 436.4036517673069,
+			"y": -19.071139865451357,
+			"width": 12,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 614486682,
+			"version": 5,
+			"versionNonce": 1071011334,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "F",
+			"rawText": "F",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18
 		}
 	],
 	"appState": {
@@ -1354,7 +1386,7 @@ T ^KqPZQ8rT
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 16,
+		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
