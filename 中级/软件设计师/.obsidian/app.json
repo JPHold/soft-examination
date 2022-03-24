@@ -3,5 +3,7 @@
   "showLineNumber": true,
   "foldHeading": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
