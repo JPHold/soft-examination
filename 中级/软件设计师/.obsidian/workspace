@@ -8,11 +8,9 @@
         "type": "leaf",
         "dimension": 79.07949790794979,
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "知识点/10、数据库系统.md",
-            "mode": "source",
-            "source": false
+            "file": "绘图/数据库系统-并发控制.md"
           }
         },
         "group": "7f1d0574fa8d019a"
@@ -24,7 +22,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识点/10、数据库系统.md"
+            "file": "绘图/数据库系统-并发控制.md"
           }
         },
         "group": "7f1d0574fa8d019a"
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -84,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/10、数据库系统.md",
+                "file": "绘图/数据库系统-并发控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/10、数据库系统.md"
+                "file": "绘图/数据库系统-并发控制.md"
               }
             }
           }
@@ -131,6 +128,7 @@
   },
   "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
+    "绘图/数据库系统-并发控制.md",
     "知识点/10、数据库系统.md",
     "未命名.md",
     "绘图/数据库系统-规范化理论-键.md",
@@ -139,7 +137,6 @@
     "绘图/数据库系统-三级模式-两级映射.md",
     "知识点/9、操作系统基本原理.md",
     "知识点/8、差错控制-CRC与海明校验码.md",
-    "绘图/操作系统基本原理-文件管理-索引文件结构-练习题.md",
-    "绘图/操作系统基本原理-文件管理-索引文件结构.md"
+    "绘图/操作系统基本原理-文件管理-索引文件结构-练习题.md"
   ]
 }
