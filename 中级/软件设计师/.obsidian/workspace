@@ -8,9 +8,11 @@
         "type": "leaf",
         "dimension": 79.07949790794979,
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "绘图/数据库系统-并发控制.md"
+            "file": "知识点/10、数据库系统.md",
+            "mode": "source",
+            "source": false
           }
         },
         "group": "7f1d0574fa8d019a"
@@ -22,7 +24,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "绘图/数据库系统-并发控制.md"
+            "file": "知识点/10、数据库系统.md"
           }
         },
         "group": "7f1d0574fa8d019a"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/数据库系统-并发控制.md",
+                "file": "知识点/10、数据库系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绘图/数据库系统-并发控制.md"
+                "file": "知识点/10、数据库系统.md"
               }
             }
           }
@@ -128,8 +130,8 @@
   },
   "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
-    "绘图/数据库系统-并发控制.md",
     "知识点/10、数据库系统.md",
+    "绘图/数据库系统-并发控制.md",
     "未命名.md",
     "绘图/数据库系统-规范化理论-键.md",
     "绘图/数据库系统-关系代数.md",
