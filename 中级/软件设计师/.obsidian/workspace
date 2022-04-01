@@ -8,8 +8,12 @@
         "type": "leaf",
         "dimension": 79.07949790794979,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "知识点/11、七层模型.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "7f1d0574fa8d019a"
       },
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识点/11、七层模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识点/11、七层模型.md"
+              }
             }
           }
         ],
