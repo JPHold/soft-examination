@@ -6,7 +6,6 @@
       {
         "id": "a3af6e68229d6cdf",
         "type": "leaf",
-        "dimension": 79.07949790794979,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,20 +13,7 @@
             "mode": "source",
             "source": true
           }
-        },
-        "group": "7f1d0574fa8d019a"
-      },
-      {
-        "id": "7f21e072f34bb984",
-        "type": "leaf",
-        "dimension": 20.920502092050206,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "知识点/11、七层模型.md"
-          }
-        },
-        "group": "7f1d0574fa8d019a"
+        }
       }
     ],
     "direction": "vertical"
