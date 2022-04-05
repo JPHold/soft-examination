@@ -12,7 +12,7 @@
           "state": {
             "file": "知识点/11、七层模型.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "group": "7f1d0574fa8d019a"
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "403197f27c554b1d",
