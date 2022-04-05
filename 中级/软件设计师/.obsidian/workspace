@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s",
+                "query": "file:20220405152852.png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
