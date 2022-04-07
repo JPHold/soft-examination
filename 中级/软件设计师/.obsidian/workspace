@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/13、数据结构与算法基础.md",
+            "file": "方法论.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/13、数据结构与算法基础.md",
+                "file": "方法论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/13、数据结构与算法基础.md"
+                "file": "方法论.md"
               }
             }
           },
@@ -115,9 +115,9 @@
   },
   "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
+    "方法论.md",
     "知识点/13、数据结构与算法基础.md",
     "知识点/12、系统安全分析与设计.md",
-    "未命名.md",
     "未命名 1.md",
     "知识点/11、七层模型.md",
     "绘图/数据库系统-数据库设计过程.md",
