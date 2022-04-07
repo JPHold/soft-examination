@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/12、系统安全分析与设计.md",
+            "file": "知识点/13、数据结构与算法基础.md",
             "mode": "source",
             "source": false
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/12、系统安全分析与设计.md",
+                "file": "知识点/13、数据结构与算法基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/12、系统安全分析与设计.md"
+                "file": "知识点/13、数据结构与算法基础.md"
               }
             }
           },
@@ -117,6 +115,7 @@
   },
   "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
+    "知识点/13、数据结构与算法基础.md",
     "知识点/12、系统安全分析与设计.md",
     "未命名.md",
     "未命名 1.md",
@@ -125,7 +124,6 @@
     "绘图/磁盘-盘面构成.md",
     "绘图/操作系统基本原理-进程管理-进程状态演变和流程.md",
     "绘图/操作系统基本原理-进程管理-PV操作.md",
-    "知识点/10、数据库系统.md",
-    "绘图/数据库系统-并发控制.md"
+    "知识点/10、数据库系统.md"
   ]
 }
