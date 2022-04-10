@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:20220405152852.png",
+                "query": "file:20220410191538.png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,12 +63,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
