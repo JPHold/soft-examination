@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/2、计算机结构.md",
+            "file": "知识点/9、操作系统基本原理.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识点/2、计算机结构.md"
+            "file": "知识点/9、操作系统基本原理.md"
           }
         },
         "group": "b661252ddd753c29"
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CISC",
+                "query": "前驱图",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/2、计算机结构.md",
+                "file": "知识点/9、操作系统基本原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/2、计算机结构.md"
+                "file": "知识点/9、操作系统基本原理.md"
               }
             }
           },
@@ -130,13 +131,13 @@
   },
   "active": "aaa27a59335240be",
   "lastOpenFiles": [
+    "知识点/9、操作系统基本原理.md",
+    "知识点/7、系统可靠性分析与设计.md",
+    "知识点/6、计算机总线.md",
     "知识点/2、计算机结构.md",
     "知识点/8、差错控制-CRC与海明校验码.md",
     "知识点/12、系统安全分析与设计.md",
     "知识点/11、七层模型.md",
-    "知识点/9、操作系统基本原理.md",
-    "知识点/6、计算机总线.md",
-    "知识点/7、系统可靠性分析与设计.md",
     "知识点/13、数据结构.md",
     "知识点/17、多媒体.md",
     "知识点/16、法律法规.md"
