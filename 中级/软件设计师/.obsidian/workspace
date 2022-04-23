@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:20220417175811.png",
+                "query": "file:20220423090602.png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
