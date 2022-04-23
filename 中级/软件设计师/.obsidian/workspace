@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/13、数据结构.md",
+            "file": "知识点/8、差错控制-CRC与海明校验码.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识点/13、数据结构.md"
+            "file": "知识点/8、差错控制-CRC与海明校验码.md"
           }
         },
         "group": "b661252ddd753c29"
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "哈夫曼",
+                "query": "银行家",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/13、数据结构.md",
+                "file": "知识点/8、差错控制-CRC与海明校验码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/13、数据结构.md"
+                "file": "知识点/8、差错控制-CRC与海明校验码.md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "aaa27a59335240be",
   "lastOpenFiles": [
+    "知识点/8、差错控制-CRC与海明校验码.md",
+    "知识点/9、操作系统基本原理.md",
+    "知识点/6、计算机总线.md",
+    "知识点/7、系统可靠性分析与设计.md",
     "知识点/13、数据结构.md",
     "知识点/17、多媒体.md",
     "知识点/16、法律法规.md",
     "知识点/15、程序设计语言.md",
     "知识点/14、算法基础.md",
-    "不懂.md",
-    "未命名 1.md",
-    "知识点/12、系统安全分析与设计.md",
-    "未命名.md",
-    "绘图/数据结构与算法基础-二叉树遍历.md"
+    "不懂.md"
   ]
 }
