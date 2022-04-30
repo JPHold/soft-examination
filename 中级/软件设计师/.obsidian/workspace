@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/19、数据流图（DFD）.md",
+            "file": "知识点/21、数据库设计例题.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识点/19、数据流图（DFD）.md"
+            "file": "知识点/21、数据库设计例题.md"
           }
         },
         "group": "b661252ddd753c29"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/19、数据流图（DFD）.md",
+                "file": "知识点/21、数据库设计例题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/19、数据流图（DFD）.md"
+                "file": "知识点/21、数据库设计例题.md"
               }
             }
           },
@@ -130,7 +130,8 @@
   },
   "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
-    "知识点/19、数据流图（DFD）.md",
+    "知识点/21、数据库设计例题.md",
+    "知识点/20、数据流图（DFD）.md",
     "知识点/19、面向对象.md",
     "知识点/18、软件工程.md",
     "未命名.md",
@@ -138,7 +139,6 @@
     "知识点/9、操作系统基本原理.md",
     "知识点/6、计算机总线.md",
     "知识点/2、计算机结构.md",
-    "知识点/8、差错控制-CRC与海明校验码.md",
-    "知识点/12、系统安全分析与设计.md"
+    "知识点/8、差错控制-CRC与海明校验码.md"
   ]
 }
