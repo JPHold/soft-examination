@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "甘特图",
+                "query": " 20220502120310",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
