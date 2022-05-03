@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: 20220502120310",
+                "query": "甘特图",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,12 +131,12 @@
   "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
     "知识点/22、建模.md",
+    "知识点/18、软件工程.md",
+    "知识点/20、数据流图（DFD）.md",
     "知识点/21、数据库设计例题.md",
     "绘图/数据库设计例题2-设计ER模式.md",
     "知识点/10、数据库系统.md",
-    "知识点/20、数据流图（DFD）.md",
     "知识点/19、面向对象.md",
-    "知识点/18、软件工程.md",
     "未命名.md",
     "知识点/7、系统可靠性分析与设计.md",
     "知识点/9、操作系统基本原理.md"
