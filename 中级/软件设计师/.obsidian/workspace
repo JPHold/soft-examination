@@ -8,9 +8,11 @@
         "type": "leaf",
         "dimension": 76.55502392344498,
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "绘图/数据库设计例题2-设计ER模式.md"
+            "file": "知识点/21、数据库设计例题.md",
+            "mode": "source",
+            "source": false
           }
         },
         "group": "b661252ddd753c29"
@@ -22,7 +24,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "绘图/数据库设计例题2-设计ER模式.md"
+            "file": "知识点/21、数据库设计例题.md"
           }
         },
         "group": "b661252ddd753c29"
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -81,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/数据库设计例题2-设计ER模式.md",
+                "file": "知识点/21、数据库设计例题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绘图/数据库设计例题2-设计ER模式.md"
+                "file": "知识点/21、数据库设计例题.md"
               }
             }
           },
@@ -126,10 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3af6e68229d6cdf",
+  "active": "aaa27a59335240be",
   "lastOpenFiles": [
-    "绘图/数据库设计例题2-设计ER模式.md",
     "知识点/21、数据库设计例题.md",
+    "绘图/数据库设计例题2-设计ER模式.md",
     "知识点/10、数据库系统.md",
     "知识点/20、数据流图（DFD）.md",
     "知识点/19、面向对象.md",
