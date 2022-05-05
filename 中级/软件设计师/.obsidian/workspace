@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/22、建模.md",
+            "file": "知识点/14、算法基础.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识点/22、建模.md"
+            "file": "知识点/14、算法基础.md"
           }
         },
         "group": "b661252ddd753c29"
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/22、建模.md",
+                "file": "知识点/14、算法基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/22、建模.md"
+                "file": "知识点/14、算法基础.md"
               }
             }
           },
@@ -131,6 +130,7 @@
   },
   "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
+    "知识点/14、算法基础.md",
     "知识点/22、建模.md",
     "知识点/18、软件工程.md",
     "知识点/20、数据流图（DFD）.md",
@@ -139,7 +139,6 @@
     "知识点/10、数据库系统.md",
     "知识点/19、面向对象.md",
     "未命名.md",
-    "知识点/7、系统可靠性分析与设计.md",
-    "知识点/9、操作系统基本原理.md"
+    "知识点/7、系统可靠性分析与设计.md"
   ]
 }
