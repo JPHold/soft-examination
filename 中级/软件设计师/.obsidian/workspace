@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/23、面向对象设计例题.md",
+            "file": "知识点/23、数据结构及算法例题.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识点/23、面向对象设计例题.md"
+            "file": "知识点/23、数据结构及算法例题.md"
           }
         },
         "group": "b661252ddd753c29"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/23、面向对象设计例题.md",
+                "file": "知识点/23、数据结构及算法例题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/23、面向对象设计例题.md"
+                "file": "知识点/23、数据结构及算法例题.md"
               }
             }
           },
@@ -130,7 +130,7 @@
   },
   "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
-    "知识点/23、面向对象设计例题.md",
+    "知识点/23、数据结构及算法例题.md",
     "知识点/19、面向对象.md",
     "知识点/22、建模.md",
     "知识点/4、层次化存储结构.md",
