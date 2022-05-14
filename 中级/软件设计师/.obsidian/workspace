@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -126,7 +127,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aaa27a59335240be",
+  "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
     "绘图/数据结构-构造哈夫曼树.md",
     "知识点/13、数据结构.md",
