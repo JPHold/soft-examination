@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不懂.md",
+            "file": "知识点/13、数据结构.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "不懂.md"
+            "file": "知识点/13、数据结构.md"
           }
         },
         "group": "b661252ddd753c29"
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "24",
+                "query": "哈夫曼",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不懂.md",
+                "file": "知识点/13、数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不懂.md"
+                "file": "知识点/13、数据结构.md"
               }
             }
           },
@@ -130,6 +131,7 @@
   },
   "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
+    "知识点/13、数据结构.md",
     "不懂.md",
     "未命名.md",
     "知识点/18、软件工程.md",
@@ -138,7 +140,6 @@
     "知识点/23、数据结构及算法例题.md",
     "知识点/22、建模.md",
     "知识点/4、层次化存储结构.md",
-    "知识点/1、数据表示和计算.md",
-    "知识点/5、磁盘结构.md"
+    "知识点/1、数据表示和计算.md"
   ]
 }
