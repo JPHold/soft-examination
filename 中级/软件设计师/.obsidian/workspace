@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "哈夫曼",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
