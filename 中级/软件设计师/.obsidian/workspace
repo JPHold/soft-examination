@@ -8,9 +8,11 @@
         "type": "leaf",
         "dimension": 70.27450980392157,
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "绘图/数据结构-构造哈夫曼树.md"
+            "file": "知识点/13、数据结构.md",
+            "mode": "source",
+            "source": false
           }
         },
         "group": "b661252ddd753c29"
@@ -22,7 +24,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "绘图/数据结构-构造哈夫曼树.md"
+            "file": "知识点/13、数据结构.md"
           }
         },
         "group": "b661252ddd753c29"
@@ -65,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -82,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/数据结构-构造哈夫曼树.md",
+                "file": "知识点/13、数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绘图/数据结构-构造哈夫曼树.md"
+                "file": "知识点/13、数据结构.md"
               }
             }
           },
@@ -129,8 +130,8 @@
   },
   "active": "a3af6e68229d6cdf",
   "lastOpenFiles": [
-    "绘图/数据结构-构造哈夫曼树.md",
     "知识点/13、数据结构.md",
+    "绘图/数据结构-构造哈夫曼树.md",
     "不懂.md",
     "绘图/数据结构与算法基础-二叉树遍历.md",
     "未命名.md",
