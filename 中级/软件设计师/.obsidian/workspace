@@ -7,9 +7,11 @@
         "id": "140cab80696846c9",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "绘图/数据结构-构造哈夫曼树并找出字符序列.md"
+            "file": "知识点/13、数据结构.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/数据结构-构造哈夫曼树并找出字符序列.md",
+                "file": "知识点/13、数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绘图/数据结构-构造哈夫曼树并找出字符序列.md"
+                "file": "知识点/13、数据结构.md"
               }
             }
           },
@@ -114,10 +116,10 @@
   },
   "active": "140cab80696846c9",
   "lastOpenFiles": [
-    "绘图/数据结构-构造哈夫曼树并找出字符序列.md",
-    "绘图/数据结构-构造哈夫曼树.md",
-    "绘图/模2除法.md",
     "知识点/13、数据结构.md",
+    "绘图/数据结构-构造哈夫曼树并找出字符序列.md",
+    "绘图/模2除法.md",
+    "绘图/数据结构-构造哈夫曼树.md",
     "不懂.md",
     "知识点/19、面向对象.md",
     "绘图/数据结构与算法基础-二叉树遍历.md",
