@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "a8d687cb45377436",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "知识点/18、软件工程.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -49,11 +61,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -119,11 +133,11 @@
     "不懂.md",
     "知识点/18、软件工程.md",
     "知识点/19、面向对象.md",
+    "知识点/15、程序设计语言.md",
     "知识点/22、建模.md",
     "知识点/20、数据流图（DFD）.md",
     "重点.md",
     "知识点/11、七层模型.md",
-    "知识点/15、程序设计语言.md",
     "知识点/12、系统安全分析与设计.md",
     "知识点/13、数据结构.md"
   ]
