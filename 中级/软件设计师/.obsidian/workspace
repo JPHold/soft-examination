@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/18、软件工程.md",
+            "file": "不懂.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/18、软件工程.md",
+                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/18、软件工程.md"
+                "file": "不懂.md"
               }
             }
           },
@@ -117,8 +116,8 @@
   },
   "active": "8ca49de4a244a32e",
   "lastOpenFiles": [
-    "知识点/18、软件工程.md",
     "不懂.md",
+    "知识点/18、软件工程.md",
     "知识点/19、面向对象.md",
     "知识点/22、建模.md",
     "知识点/20、数据流图（DFD）.md",
