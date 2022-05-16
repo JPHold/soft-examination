@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca49de4a244a32e",
+        "id": "fca5b70a1e15e832",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "不懂.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a8d687cb45377436",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "知识点/18、软件工程.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,13 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -83,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "不懂.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,10 +107,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ca49de4a244a32e",
+  "active": "fca5b70a1e15e832",
   "lastOpenFiles": [
-    "不懂.md",
     "知识点/18、软件工程.md",
+    "不懂.md",
     "知识点/19、面向对象.md",
     "知识点/15、程序设计语言.md",
     "知识点/22、建模.md",
