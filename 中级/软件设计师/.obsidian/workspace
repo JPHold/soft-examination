@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "140cab80696846c9",
+        "id": "8ca49de4a244a32e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不懂.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3880ae4d75a32226",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "知识点/19、面向对象.md",
+            "file": "知识点/18、软件工程.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "创建型",
+                "query": "耦合",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不懂.md",
+                "file": "知识点/18、软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不懂.md"
+                "file": "知识点/18、软件工程.md"
               }
             }
           },
@@ -127,12 +115,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "140cab80696846c9",
+  "active": "8ca49de4a244a32e",
   "lastOpenFiles": [
+    "知识点/18、软件工程.md",
     "不懂.md",
     "知识点/19、面向对象.md",
     "知识点/22、建模.md",
-    "知识点/18、软件工程.md",
     "知识点/20、数据流图（DFD）.md",
     "重点.md",
     "知识点/11、七层模型.md",
