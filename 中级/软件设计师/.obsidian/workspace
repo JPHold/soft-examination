@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/13、数据结构.md",
+            "file": "不懂.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识点/13、数据结构.md"
+            "file": "不懂.md"
           }
         },
         "group": "da86d239e9a00428"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/13、数据结构.md",
+                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/13、数据结构.md"
+                "file": "不懂.md"
               }
             }
           },
@@ -126,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e4b9c0142b091dc",
+  "active": "fca5b70a1e15e832",
   "lastOpenFiles": [
-    "知识点/13、数据结构.md",
     "不懂.md",
+    "知识点/23、数据结构及算法例题.md",
     "知识点/14、算法基础.md",
+    "知识点/13、数据结构.md",
     "绘图/数据结构-构造哈夫曼树.md",
     "知识点/9、操作系统基本原理.md",
     "知识点/4、层次化存储结构.md",
     "知识点/6、计算机总线.md",
     "知识点/7、系统可靠性分析与设计.md",
-    "知识点/11、七层模型.md",
-    "知识点/12、系统安全分析与设计.md"
+    "知识点/11、七层模型.md"
   ]
 }
