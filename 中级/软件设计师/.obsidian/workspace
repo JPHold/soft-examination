@@ -9,11 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/18、软件工程.md",
+            "file": "知识点/14、算法基础.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "da86d239e9a00428"
+      },
+      {
+        "id": "4e4b9c0142b091dc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "知识点/14、算法基础.md"
+          }
+        },
+        "group": "da86d239e9a00428"
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/18、软件工程.md",
+                "file": "知识点/14、算法基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/18、软件工程.md"
+                "file": "知识点/14、算法基础.md"
               }
             }
           },
@@ -114,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fca5b70a1e15e832",
+  "active": "4e4b9c0142b091dc",
   "lastOpenFiles": [
+    "知识点/14、算法基础.md",
+    "知识点/15、程序设计语言.md",
+    "知识点/13、数据结构.md",
     "知识点/18、软件工程.md",
     "不懂.md",
     "知识点/19、面向对象.md",
-    "知识点/15、程序设计语言.md",
     "知识点/22、建模.md",
     "知识点/20、数据流图（DFD）.md",
     "重点.md",
-    "知识点/11、七层模型.md",
-    "知识点/12、系统安全分析与设计.md",
-    "知识点/13、数据结构.md"
+    "知识点/11、七层模型.md"
   ]
 }
