@@ -7,9 +7,11 @@
         "id": "fca5b70a1e15e832",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "绘图/操作系统基本原理-文件管理-索引文件结构.md"
+            "file": "不懂.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -47,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/操作系统基本原理-文件管理-索引文件结构.md",
+                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绘图/操作系统基本原理-文件管理-索引文件结构.md"
+                "file": "不懂.md"
               }
             }
           },
@@ -115,15 +116,15 @@
   },
   "active": "fca5b70a1e15e832",
   "lastOpenFiles": [
+    "不懂.md",
+    "知识点/20、数据流图（DFD）.md",
+    "知识点/19、面向对象.md",
+    "知识点/21、数据库设计例题.md",
     "绘图/操作系统基本原理-文件管理-索引文件结构.md",
     "绘图/操作系统基本原理-文件管理-索引文件结构-练习题.md",
     "绘图/数据库系统-数据库设计过程.md",
-    "不懂.md",
     "知识点/13、数据结构.md",
     "知识点/15、程序设计语言.md",
-    "知识点/18、软件工程.md",
-    "知识点/21、数据库设计例题.md",
-    "知识点/20、数据流图（DFD）.md",
-    "知识点/14、算法基础.md"
+    "知识点/18、软件工程.md"
   ]
 }
