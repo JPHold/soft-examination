@@ -17,6 +17,18 @@
         "group": "70d67ded5f7be4c8"
       },
       {
+        "id": "c1150d875194d721",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "不懂.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "cfd58c68f3543053",
         "type": "leaf",
         "state": {
@@ -82,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/15、程序设计语言.md",
+                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/15、程序设计语言.md"
+                "file": "不懂.md"
               }
             }
           },
@@ -127,10 +139,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fca5b70a1e15e832",
+  "active": "c1150d875194d721",
   "lastOpenFiles": [
-    "知识点/15、程序设计语言.md",
     "不懂.md",
+    "知识点/15、程序设计语言.md",
     "知识点/13、数据结构.md",
     "知识点/18、软件工程.md",
     "知识点/21、数据库设计例题.md",
