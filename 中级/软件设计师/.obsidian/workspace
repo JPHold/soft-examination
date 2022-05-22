@@ -13,7 +13,19 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "70d67ded5f7be4c8"
+      },
+      {
+        "id": "cfd58c68f3543053",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "知识点/15、程序设计语言.md"
+          }
+        },
+        "group": "70d67ded5f7be4c8"
       }
     ],
     "direction": "vertical"
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "403197f27c554b1d",
