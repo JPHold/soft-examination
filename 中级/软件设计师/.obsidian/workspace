@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/10、数据库系统.md",
+            "file": "知识点/15、程序设计语言.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "词法分析",
+                "query": "前序遍历",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/10、数据库系统.md",
+                "file": "知识点/15、程序设计语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/10、数据库系统.md"
+                "file": "知识点/15、程序设计语言.md"
               }
             }
           },
@@ -117,15 +116,15 @@
   },
   "active": "fca5b70a1e15e832",
   "lastOpenFiles": [
-    "知识点/10、数据库系统.md",
+    "知识点/15、程序设计语言.md",
     "不懂.md",
-    "知识点/22、建模.md",
-    "绘图/数据结构与算法基础-属性概念.md",
     "知识点/13、数据结构.md",
-    "知识点/20、数据流图（DFD）.md",
-    "知识点/19、面向对象.md",
+    "知识点/18、软件工程.md",
     "知识点/21、数据库设计例题.md",
-    "绘图/操作系统基本原理-文件管理-索引文件结构.md",
-    "绘图/操作系统基本原理-文件管理-索引文件结构-练习题.md"
+    "知识点/20、数据流图（DFD）.md",
+    "知识点/14、算法基础.md",
+    "知识点/23、数据结构及算法例题.md",
+    "绘图/数据结构-构造哈夫曼树.md",
+    "知识点/9、操作系统基本原理.md"
   ]
 }
