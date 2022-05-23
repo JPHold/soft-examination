@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c1150d875194d721",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "知识点/18、软件工程.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "a2809dd129cd33a9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不懂.md",
+            "file": "知识点/16、法律法规.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/18、软件工程.md",
+                "file": "知识点/16、法律法规.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/18、软件工程.md"
+                "file": "知识点/16、法律法规.md"
               }
             }
           },
@@ -126,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1150d875194d721",
+  "active": "a2809dd129cd33a9",
   "lastOpenFiles": [
+    "知识点/16、法律法规.md",
     "知识点/18、软件工程.md",
+    "知识点/17、多媒体.md",
     "不懂.md",
     "知识点/22、建模.md",
     "知识点/20、数据流图（DFD）.md",
     "知识点/19、面向对象.md",
     "知识点/23、数据结构及算法例题.md",
     "知识点/14、算法基础.md",
-    "知识点/13、数据结构.md",
-    "绘图/数据结构-构造哈夫曼树并找出字符序列.md",
-    "知识点/12、系统安全分析与设计.md"
+    "知识点/13、数据结构.md"
   ]
 }
