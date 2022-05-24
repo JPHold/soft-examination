@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "1d920c1192e83c65",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "不懂.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -49,12 +61,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -70,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/19、面向对象.md",
+                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/19、面向对象.md"
+                "file": "不懂.md"
               }
             }
           },
@@ -115,12 +127,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89f1928a6932011a",
+  "active": "1d920c1192e83c65",
   "lastOpenFiles": [
+    "不懂.md",
     "知识点/19、面向对象.md",
     "知识点/18、软件工程.md",
     "知识点/20、数据流图（DFD）.md",
-    "不懂.md",
     "知识点/16、法律法规.md",
     "知识点/17、多媒体.md",
     "知识点/22、建模.md",
