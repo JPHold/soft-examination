@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "活动图",
+                "query": "聚合",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
