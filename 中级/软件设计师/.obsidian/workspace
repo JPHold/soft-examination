@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/10、数据库系统.md",
+                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/10、数据库系统.md"
+                "file": "不懂.md"
               }
             }
           },
@@ -127,10 +127,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bca8c232038bfb19",
+  "active": "89f1928a6932011a",
   "lastOpenFiles": [
-    "知识点/10、数据库系统.md",
     "不懂.md",
+    "知识点/10、数据库系统.md",
     "知识点/16、法律法规.md",
     "知识点/18、软件工程.md",
     "知识点/17、多媒体.md",
