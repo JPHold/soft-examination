@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "耦合",
+                "query": "file:20220524142506",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不懂.md",
+                "file": "知识点/10、数据库系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不懂.md"
+                "file": "知识点/10、数据库系统.md"
               }
             }
           },
@@ -127,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89f1928a6932011a",
+  "active": "bca8c232038bfb19",
   "lastOpenFiles": [
-    "不懂.md",
     "知识点/10、数据库系统.md",
+    "不懂.md",
+    "附件/Pasted image 20220524142506.png",
     "知识点/16、法律法规.md",
     "知识点/18、软件工程.md",
     "知识点/17、多媒体.md",
     "知识点/22、建模.md",
     "知识点/20、数据流图（DFD）.md",
     "知识点/19、面向对象.md",
-    "知识点/23、数据结构及算法例题.md",
-    "知识点/14、算法基础.md"
+    "知识点/23、数据结构及算法例题.md"
   ]
 }
