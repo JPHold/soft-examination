@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "耦合",
+                "query": "甘特图",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,10 +118,10 @@
   "active": "89f1928a6932011a",
   "lastOpenFiles": [
     "知识点/19、面向对象.md",
+    "知识点/18、软件工程.md",
     "知识点/20、数据流图（DFD）.md",
     "不懂.md",
     "知识点/16、法律法规.md",
-    "知识点/18、软件工程.md",
     "知识点/17、多媒体.md",
     "知识点/22、建模.md",
     "知识点/23、数据结构及算法例题.md",
