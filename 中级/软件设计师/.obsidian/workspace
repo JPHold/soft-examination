@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a2809dd129cd33a9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "知识点/16、法律法规.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "89f1928a6932011a",
         "type": "leaf",
         "state": {
