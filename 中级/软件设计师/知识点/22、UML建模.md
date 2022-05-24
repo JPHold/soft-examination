@@ -1,5 +1,37 @@
 [TOC]
 
+# UML
+![[Pasted image 20220427211502.png]]
+
+![[Pasted image 20220524203656.png]]
+
+ [万字多图|UML入门指南](https://www.baidu.com/link?url=yhGvxDkSe0utlDiFF0fkh27q5XDQ-GfkUYmVFwYe-ShSlmkukUFEUhlSXkcP5KPXtTjS3gdZN9_83Ap_bYiOMzxSa_MwTZJhVFXUJ19W79W&wd=&eqid=ad109381000295dd0000000662694251)
+[产品经理的思考利器UML](https://www.baidu.com/link?url=Db4-kESutMQPDEvAuesFJpsrq6Cs750karOzrnPPwoQ31rgTuz4XQiLGnHGA0tCtqOJZ9TuEacpHPEj6FRwYPVd6gvCwXhT
+
+## 四种关系
+1. 依赖
+2. 关联
+3. 泛化
+4. 实现
+
+## 结构视图
+
+静态元素
+| 图的类型 | 描述                                                                         |
+| -------- | ---------------------------------------------------------------------------- |
+| 类图     |                                                                              |
+| 对象图   | 系统某个时间段内，存在一些对象，                                             |
+| 包图     | 将建模元素有序地组织起来（比如项目结构中的包，包含了好几个类）               |
+| 组件图   | 组织几个普通包，有特定功能；按功能分为：模块、子系统、库、可执行文件和程序包 |
+| 部署图         | 在物理系统上运行的结构，包括硬件分布、软件部署到硬件的方式                                                                             |
+
+## 行为视图
+基于[[#结构视图]]这些静态元素，产生的行为
+| 图的类型 | 描述 |
+| -------- | ---- |
+|          |      |
+
+
 # 用例图
 * **包含关系**
 inlcude关键字，虚线箭头
