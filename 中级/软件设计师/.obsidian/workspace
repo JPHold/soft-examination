@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a1f7e2b5d6ecd6b",
+        "id": "89f1928a6932011a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "不懂.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:20220524142506",
+                "query": "耦合",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "不懂.md"
+              }
             }
           },
           {
@@ -107,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a1f7e2b5d6ecd6b",
+  "active": "89f1928a6932011a",
   "lastOpenFiles": [
     "不懂.md",
-    "知识点/10、数据库系统.md",
-    "附件/Pasted image 20220524142506.png",
     "知识点/16、法律法规.md",
     "知识点/18、软件工程.md",
     "知识点/17、多媒体.md",
     "知识点/22、建模.md",
     "知识点/20、数据流图（DFD）.md",
     "知识点/19、面向对象.md",
-    "知识点/23、数据结构及算法例题.md"
+    "知识点/23、数据结构及算法例题.md",
+    "知识点/14、算法基础.md",
+    "知识点/13、数据结构.md"
   ]
 }
