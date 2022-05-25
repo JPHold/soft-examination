@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/2、计算机结构.md",
+            "file": "不懂.md",
             "mode": "preview",
             "source": true
           }
@@ -23,7 +23,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识点/2、计算机结构.md"
+            "file": "不懂.md"
           }
         }
       }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/2、计算机结构.md",
+                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/2、计算机结构.md"
+                "file": "不懂.md"
               }
             }
           },
@@ -129,10 +128,10 @@
   },
   "active": "7a1f7e2b5d6ecd6b",
   "lastOpenFiles": [
+    "不懂.md",
     "知识点/2、计算机结构.md",
     "知识点/1、数据表示和计算.md",
     "知识点/4、层次化存储结构.md",
-    "不懂.md",
     "Pasted image 20211119182442.png.md",
     "知识点/22、UML建模.md",
     "知识点/10、数据库系统.md",
