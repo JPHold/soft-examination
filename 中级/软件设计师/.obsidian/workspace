@@ -6,24 +6,26 @@
       {
         "id": "7a1f7e2b5d6ecd6b",
         "type": "leaf",
-        "dimension": 71.49758454106279,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不懂.md",
+            "file": "知识点/18、软件工程.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "2ecffe5d187d21bc",
+        "id": "3a2f9ab00a3e8e17",
         "type": "leaf",
-        "dimension": 28.502415458937197,
+        "dimension": 50,
         "state": {
-          "type": "outline",
+          "type": "markdown",
           "state": {
-            "file": "不懂.md"
+            "file": "不懂.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:20220524142506",
+                "query": "敏捷",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -126,9 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a1f7e2b5d6ecd6b",
+  "active": "3a2f9ab00a3e8e17",
   "lastOpenFiles": [
     "不懂.md",
+    "知识点/18、软件工程.md",
     "知识点/2、计算机结构.md",
     "知识点/1、数据表示和计算.md",
     "知识点/4、层次化存储结构.md",
@@ -136,7 +140,6 @@
     "知识点/22、UML建模.md",
     "知识点/10、数据库系统.md",
     "附件/Pasted image 20220524142506.png",
-    "知识点/16、法律法规.md",
-    "知识点/18、软件工程.md"
+    "知识点/16、法律法规.md"
   ]
 }
