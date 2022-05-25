@@ -12,10 +12,9 @@
           "state": {
             "file": "知识点/2、计算机结构.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
-        },
-        "group": "22b7f7cc73f99cbd"
+        }
       },
       {
         "id": "2ecffe5d187d21bc",
@@ -26,8 +25,7 @@
           "state": {
             "file": "知识点/2、计算机结构.md"
           }
-        },
-        "group": "22b7f7cc73f99cbd"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "403197f27c554b1d",
