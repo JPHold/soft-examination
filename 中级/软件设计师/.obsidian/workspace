@@ -4,19 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7a1f7e2b5d6ecd6b",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "知识点/11、七层模型.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "3a2f9ab00a3e8e17",
         "type": "leaf",
         "dimension": 50,
@@ -24,6 +11,19 @@
           "type": "markdown",
           "state": {
             "file": "不懂.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "456d8987297ac5a3",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "知识点/13、数据结构.md",
             "mode": "source",
             "source": false
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不懂.md",
+                "file": "知识点/13、数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不懂.md"
+                "file": "知识点/13、数据结构.md"
               }
             }
           },
@@ -129,8 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a2f9ab00a3e8e17",
+  "active": "456d8987297ac5a3",
   "lastOpenFiles": [
+    "知识点/13、数据结构.md",
+    "知识点/14、算法基础.md",
     "不懂.md",
     "知识点/11、七层模型.md",
     "未命名.md",
@@ -138,8 +140,6 @@
     "知识点/2、计算机结构.md",
     "知识点/1、数据表示和计算.md",
     "知识点/18、软件工程.md",
-    "知识点/7、系统可靠性分析与设计.md",
-    "知识点/4、层次化存储结构.md",
-    "Pasted image 20211119182442.png.md"
+    "知识点/7、系统可靠性分析与设计.md"
   ]
 }
