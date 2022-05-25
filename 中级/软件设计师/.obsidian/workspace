@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/1、数据表示和计算.md",
+            "file": "知识点/2、计算机结构.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/1、数据表示和计算.md",
+                "file": "知识点/2、计算机结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/1、数据表示和计算.md"
+                "file": "知识点/2、计算机结构.md"
               }
             }
           },
@@ -129,6 +129,7 @@
   },
   "active": "7a1f7e2b5d6ecd6b",
   "lastOpenFiles": [
+    "知识点/2、计算机结构.md",
     "知识点/1、数据表示和计算.md",
     "不懂.md",
     "Pasted image 20211119182442.png.md",
@@ -137,7 +138,6 @@
     "附件/Pasted image 20220524142506.png",
     "知识点/16、法律法规.md",
     "知识点/18、软件工程.md",
-    "知识点/17、多媒体.md",
-    "知识点/22、建模.md"
+    "知识点/17、多媒体.md"
   ]
 }
