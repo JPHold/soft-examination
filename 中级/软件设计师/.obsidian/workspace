@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/13、数据结构.md",
+            "file": "知识点/1、数据表示和计算.md",
             "mode": "source",
             "source": false
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不懂.md",
+                "file": "知识点/1、数据表示和计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不懂.md"
+                "file": "知识点/1、数据表示和计算.md"
               }
             }
           },
@@ -129,16 +128,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a2f9ab00a3e8e17",
+  "active": "456d8987297ac5a3",
   "lastOpenFiles": [
-    "不懂.md",
+    "知识点/1、数据表示和计算.md",
     "知识点/13、数据结构.md",
+    "不懂.md",
     "知识点/14、算法基础.md",
     "知识点/11、七层模型.md",
     "未命名.md",
     "知识点/12、系统安全分析与设计.md",
     "知识点/2、计算机结构.md",
-    "知识点/1、数据表示和计算.md",
     "知识点/18、软件工程.md",
     "知识点/7、系统可靠性分析与设计.md"
   ]
