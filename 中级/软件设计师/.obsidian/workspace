@@ -6,6 +6,7 @@
       {
         "id": "7a1f7e2b5d6ecd6b",
         "type": "leaf",
+        "dimension": 71.49758454106279,
         "state": {
           "type": "markdown",
           "state": {
@@ -13,19 +14,20 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "22b7f7cc73f99cbd"
       },
       {
-        "id": "9da8b243902d8df5",
+        "id": "2ecffe5d187d21bc",
         "type": "leaf",
+        "dimension": 28.502415458937197,
         "state": {
-          "type": "markdown",
+          "type": "outline",
           "state": {
-            "file": "不懂.md",
-            "mode": "source",
-            "source": false
+            "file": "知识点/2、计算机结构.md"
           }
-        }
+        },
+        "group": "22b7f7cc73f99cbd"
       }
     ],
     "direction": "vertical"
