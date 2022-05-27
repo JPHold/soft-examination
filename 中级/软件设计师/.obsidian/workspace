@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-05-27 23.20.21.excalidraw.md",
-            "mode": "source",
+            "file": "知识点/14、算法基础.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-05-27 23.20.21.excalidraw.md",
+                "file": "知识点/14、算法基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-05-27 23.20.21.excalidraw.md"
+                "file": "知识点/14、算法基础.md"
               }
             }
           },
@@ -116,15 +117,15 @@
   },
   "active": "456d8987297ac5a3",
   "lastOpenFiles": [
+    "知识点/14、算法基础.md",
+    "知识点/13、数据结构.md",
+    "知识点/6、计算机总线.md",
     "Excalidraw/Drawing 2022-05-27 23.20.21.excalidraw.md",
     "知识点/1、数据表示和计算.md",
     "知识点/2、计算机结构.md",
     "知识点/10、数据库系统.md",
     "不懂.md",
     "知识点/12、系统安全分析与设计.md",
-    "知识点/8、差错控制-CRC与海明校验码.md",
-    "知识点/13、数据结构.md",
-    "知识点/14、算法基础.md",
-    "知识点/11、七层模型.md"
+    "知识点/8、差错控制-CRC与海明校验码.md"
   ]
 }
