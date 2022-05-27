@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "3a2f9ab00a3e8e17",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "不懂.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "456d8987297ac5a3",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 50.1610305958132,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/1、数据表示和计算.md",
+            "file": "知识点/10、数据库系统.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "f395ffcdb6ebf7a8"
+      },
+      {
+        "id": "244293383452b84a",
+        "type": "leaf",
+        "dimension": 49.8389694041868,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "知识点/10、数据库系统.md"
+          }
+        },
+        "group": "f395ffcdb6ebf7a8"
       }
     ],
     "direction": "vertical"
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/1、数据表示和计算.md",
+                "file": "知识点/10、数据库系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/1、数据表示和计算.md"
+                "file": "知识点/10、数据库系统.md"
               }
             }
           },
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "456d8987297ac5a3",
+  "active": "244293383452b84a",
   "lastOpenFiles": [
+    "知识点/10、数据库系统.md",
+    "不懂.md",
     "知识点/1、数据表示和计算.md",
     "知识点/12、系统安全分析与设计.md",
     "知识点/8、差错控制-CRC与海明校验码.md",
-    "不懂.md",
     "知识点/13、数据结构.md",
     "知识点/14、算法基础.md",
     "知识点/11、七层模型.md",
     "未命名.md",
-    "知识点/2、计算机结构.md",
-    "知识点/18、软件工程.md"
+    "知识点/2、计算机结构.md"
   ]
 }
