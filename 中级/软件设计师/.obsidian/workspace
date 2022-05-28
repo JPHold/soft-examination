@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/14、算法基础.md",
-            "mode": "preview",
+            "file": "不懂.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/14、算法基础.md",
+                "file": "不懂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/14、算法基础.md"
+                "file": "不懂.md"
               }
             }
           },
@@ -117,6 +117,8 @@
   },
   "active": "456d8987297ac5a3",
   "lastOpenFiles": [
+    "不懂.md",
+    "Excalidraw/Drawing 2022-05-28 08.11.53.excalidraw.md",
     "知识点/14、算法基础.md",
     "知识点/13、数据结构.md",
     "知识点/6、计算机总线.md",
@@ -124,8 +126,6 @@
     "知识点/1、数据表示和计算.md",
     "知识点/2、计算机结构.md",
     "知识点/10、数据库系统.md",
-    "不懂.md",
-    "知识点/12、系统安全分析与设计.md",
-    "知识点/8、差错控制-CRC与海明校验码.md"
+    "知识点/12、系统安全分析与设计.md"
   ]
 }
