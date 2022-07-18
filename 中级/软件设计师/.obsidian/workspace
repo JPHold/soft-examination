@@ -7,11 +7,9 @@
         "id": "456d8987297ac5a3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "知识点/18、软件工程.md",
-            "mode": "source",
-            "source": false
+            "file": "绘图/操作系统基本原理-存储管理-段式存储组织.md"
           }
         }
       }
@@ -53,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "403197f27c554b1d",
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/18、软件工程.md",
+                "file": "绘图/操作系统基本原理-存储管理-段式存储组织.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/18、软件工程.md"
+                "file": "绘图/操作系统基本原理-存储管理-段式存储组织.md"
               }
             }
           },
@@ -117,15 +114,15 @@
   },
   "active": "456d8987297ac5a3",
   "lastOpenFiles": [
+    "绘图/操作系统基本原理-存储管理-段页式存储组织.md",
+    "绘图/操作系统基本原理-存储管理-段式存储组织.md",
+    "知识点/4、层次化存储结构.md",
     "知识点/18、软件工程.md",
     "不懂.md",
     "Excalidraw/Drawing 2022-05-28 08.11.53.excalidraw.md",
     "知识点/14、算法基础.md",
     "知识点/13、数据结构.md",
     "知识点/6、计算机总线.md",
-    "Excalidraw/Drawing 2022-05-27 23.20.21.excalidraw.md",
-    "知识点/1、数据表示和计算.md",
-    "知识点/2、计算机结构.md",
-    "知识点/10、数据库系统.md"
+    "Excalidraw/Drawing 2022-05-27 23.20.21.excalidraw.md"
   ]
 }
