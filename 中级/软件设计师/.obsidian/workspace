@@ -7,9 +7,11 @@
         "id": "456d8987297ac5a3",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "绘图/操作系统基本原理-存储管理-段式存储组织.md"
+            "file": "知识点/18、软件工程.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "绘图/操作系统基本原理-存储管理-段式存储组织.md",
+                "file": "知识点/18、软件工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "绘图/操作系统基本原理-存储管理-段式存储组织.md"
+                "file": "知识点/18、软件工程.md"
               }
             }
           },
@@ -114,8 +116,8 @@
   },
   "active": "456d8987297ac5a3",
   "lastOpenFiles": [
-    "绘图/操作系统基本原理-存储管理-段页式存储组织.md",
     "绘图/操作系统基本原理-存储管理-段式存储组织.md",
+    "绘图/操作系统基本原理-存储管理-段页式存储组织.md",
     "知识点/4、层次化存储结构.md",
     "知识点/18、软件工程.md",
     "不懂.md",
